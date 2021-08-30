@@ -1,0 +1,21 @@
+{
+    "chapters": [
+        {
+            "description": "Strat",
+            "id": 1,
+            "name": "Mid to B Split",
+            "tags": [
+            ]
+        },
+        {
+            "description": "Strat",
+            "id": 2,
+            "name": "Mid to A Split",
+            "tags": [
+            ]
+        }
+    ],
+    "description": "",
+    "name": "Strat Images",
+    "type": "util"
+}

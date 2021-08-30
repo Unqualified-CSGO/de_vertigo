@@ -1,0 +1,141 @@
+{
+    "chapters": [
+        {
+            "description": "Two people enter through ramp and the other three should go through mid. See map strat [here](~2/1~).",
+            "id": 1,
+            "name": "Mid to B Split",
+            "players": {
+                "blue": {
+                    "description": "Flashes entry into stairs and then throw the [B Headshot Molly](~1/19~). They would then be the first entry into site, followed by green.",
+                    "role": "Enter role / player name here.",
+                    "utility": {
+                        "decoy": false,
+                        "doubleFlash": true,
+                        "flash": false,
+                        "molly": true,
+                        "nade": false,
+                        "smoke": false
+                    }
+                },
+                "green": {
+                    "description": "Entries B after getting flashed in and then throw the [B Quad Molly](~1/21~). Follows and helps blue to entry B.",
+                    "role": "Enter role / player name here.",
+                    "utility": {
+                        "decoy": false,
+                        "doubleFlash": false,
+                        "flash": false,
+                        "molly": true,
+                        "nade": false,
+                        "smoke": false
+                    }
+                },
+                "orange": {
+                    "description": "Enter new description here.",
+                    "role": "Enter role / player name here.",
+                    "utility": {
+                        "decoy": false,
+                        "doubleFlash": false,
+                        "flash": false,
+                        "molly": false,
+                        "nade": false,
+                        "smoke": true
+                    }
+                },
+                "purple": {
+                    "description": "Flashes everyone into mid, waits for the two mid smokes to land and then throws the CT smoke and flashes again.",
+                    "role": "Enter role / player name here.",
+                    "utility": {
+                        "decoy": false,
+                        "doubleFlash": true,
+                        "flash": false,
+                        "molly": false,
+                        "nade": false,
+                        "smoke": true
+                    }
+                },
+                "yellow": {
+                    "description": "Enter new description here.",
+                    "role": "Enter role / player name here.",
+                    "utility": {
+                        "decoy": false,
+                        "doubleFlash": false,
+                        "flash": false,
+                        "molly": false,
+                        "nade": false,
+                        "smoke": true
+                    }
+                }
+            }
+        },
+        {
+            "description": "Three people go A ramp and then two people go through mid to A. See map strat [here](~2/2~).",
+            "id": 2,
+            "name": "Mid to A Split",
+            "players": {
+                "blue": {
+                    "description": "Enter new description here.",
+                    "role": "One-Tap Man",
+                    "utility": {
+                        "decoy": false,
+                        "doubleFlash": true,
+                        "flash": false,
+                        "molly": true,
+                        "nade": false,
+                        "smoke": true
+                    }
+                },
+                "green": {
+                    "description": "Enter new description here.",
+                    "role": "Enter role / player name here.",
+                    "utility": {
+                        "decoy": false,
+                        "doubleFlash": false,
+                        "flash": false,
+                        "molly": false,
+                        "nade": false,
+                        "smoke": false
+                    }
+                },
+                "orange": {
+                    "description": "Enter new description here.",
+                    "role": "Enter role / player name here.",
+                    "utility": {
+                        "decoy": false,
+                        "doubleFlash": false,
+                        "flash": false,
+                        "molly": false,
+                        "nade": false,
+                        "smoke": false
+                    }
+                },
+                "purple": {
+                    "description": "Enter new description here.",
+                    "role": "D3ATHKeeper",
+                    "utility": {
+                        "decoy": false,
+                        "doubleFlash": false,
+                        "flash": false,
+                        "molly": true,
+                        "nade": true,
+                        "smoke": true
+                    }
+                },
+                "yellow": {
+                    "description": "Enter new description here.",
+                    "role": "Enter role / player name here.",
+                    "utility": {
+                        "decoy": false,
+                        "doubleFlash": false,
+                        "flash": false,
+                        "molly": false,
+                        "nade": false,
+                        "smoke": false
+                    }
+                }
+            }
+        }
+    ],
+    "description": "",
+    "name": "Strats",
+    "type": "strat"
+}

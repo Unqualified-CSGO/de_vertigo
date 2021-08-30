@@ -1,0 +1,265 @@
+{
+    "chapters": [
+        {
+            "description": "Flashes T when they rush site and doesn't flash any of your own teammates.",
+            "id": 1,
+            "name": "A CT Flash From Headshot",
+            "tags": [
+                "64",
+                "128",
+                "flash"
+            ]
+        },
+        {
+            "description": "You need to line up in around the same location as in the photo. Press the crosshair bottom if you're unsure of where it is.",
+            "id": 2,
+            "name": "A Cross Left Smoke From Ramp",
+            "tags": [
+                "128",
+                "smoke"
+            ]
+        },
+        {
+            "description": "Just a left click throw",
+            "id": 3,
+            "name": "A Cross Right Smoke From Ramp",
+            "tags": [
+                "64",
+                "128",
+                "smoke"
+            ]
+        },
+        {
+            "description": "Just jump throw the smoke.",
+            "id": 4,
+            "name": "A Ivy Smoke From T Spawn",
+            "tags": [
+                "64",
+                "128",
+                "smoke"
+            ]
+        },
+        {
+            "description": "This is a set combo with [this molly](~1/5~)",
+            "id": 5,
+            "name": "A Cross Right Smoke From Ramp [Molly Combo]",
+            "tags": [
+                "64",
+                "128",
+                "smoke"
+            ]
+        },
+        {
+            "description": "This is part of a set combo with [this smoke](~1/4~)",
+            "id": 6,
+            "name": "A Headshot Molly [Molly Combo]",
+            "tags": [
+                "64",
+                "128",
+                "molly"
+            ]
+        },
+        {
+            "description": "An alternative headshot molly from ramp.\\\n64-Tick lineup is from the first brick in the wall",
+            "id": 7,
+            "name": "A Headshot Molly",
+            "tags": [
+                "128",
+                "molly"
+            ]
+        },
+        {
+            "description": "Just a normal left click throw.\\\n**Remember to shoot the window out first**",
+            "id": 8,
+            "name": "A Ivy Molly From Ladder",
+            "tags": [
+                "64",
+                "128",
+                "molly"
+            ]
+        },
+        {
+            "description": "Stand in the corner and throw a normal left click throw.",
+            "id": 9,
+            "name": "A Ivy Molly From Ramp",
+            "tags": [
+                "64",
+                "128",
+                "molly"
+            ]
+        },
+        {
+            "description": "Needs to be perfect",
+            "id": 10,
+            "name": "A Ivy Molly Glitch",
+            "tags": [
+                "64",
+                "128",
+                "molly"
+            ]
+        },
+        {
+            "description": "Nades default plant from heaven",
+            "id": 11,
+            "name": "A Default Plant Nade From Heaven",
+            "tags": [
+                "64",
+                "128",
+                "nade"
+            ]
+        },
+        {
+            "description": "Nades default plant from mid",
+            "id": 12,
+            "name": "A Default Plant Nade From Mid",
+            "tags": [
+                "64",
+                "128",
+                "nade"
+            ]
+        },
+        {
+            "description": "Smoke lands on the crane and gives you an angle advantage to see the enemies body first.",
+            "id": 13,
+            "name": "A Crane One-Way CT",
+            "tags": [
+                "64",
+                "128",
+                "smoke"
+            ]
+        },
+        {
+            "description": "Go stand in the corner in mid, line up you crosshair position, run forward and move right and then move left again to be against the wall. You should then let go of the smoke when past the light.",
+            "id": 14,
+            "name": "A Deep Ramp Smoke",
+            "tags": [
+                "64",
+                "128",
+                "smoke"
+            ]
+        },
+        {
+            "description": "Use this flash to flash your team into stairs.\\\nKeep in mind that this flash isn't used to push site as it will blind your team too.",
+            "id": 15,
+            "name": "B Stairs Flash",
+            "tags": [
+                "64",
+                "128",
+                "flash"
+            ]
+        },
+        {
+            "description": "Part 1 of B smoke and can be combined with [this molly](~1/19~)",
+            "id": 16,
+            "name": "B Generator Left Side Smoke",
+            "tags": [
+                "64",
+                "128",
+                "smoke"
+            ]
+        },
+        {
+            "description": "You need to crouch first to get the lineup en the uncrouch + left click throw.",
+            "id": 17,
+            "name": "B Generator Right Side Smoke",
+            "tags": [
+                "64",
+                "128",
+                "smoke"
+            ]
+        },
+        {
+            "description": "",
+            "id": 18,
+            "name": "B Default Plant Molly",
+            "tags": [
+                "128",
+                "molly"
+            ]
+        },
+        {
+            "description": "Mollies off headshot. Something one of the entries can throw before entering site since it's closest util",
+            "id": 19,
+            "name": "B Headshot Molly",
+            "tags": [
+                "128",
+                "molly"
+            ]
+        },
+        {
+            "description": "It's a crouch jump throw and it'll definitely need a jump throw bind.",
+            "id": 20,
+            "name": "B Mid Molly From T-Mid",
+            "tags": [
+                "128",
+                "molly"
+            ]
+        },
+        {
+            "description": "Mollies the far back of site where people like to camp / play sneaky.",
+            "id": 21,
+            "name": "B Quad Molly",
+            "tags": [
+                "128",
+                "molly"
+            ]
+        },
+        {
+            "description": "Nades the default plant, would be good to time it with the default molly.",
+            "id": 22,
+            "name": "B Default Plant Nade From Mid",
+            "tags": [
+                "128",
+                "nade"
+            ]
+        },
+        {
+            "description": "Part of a nade set that nades a really common angle.",
+            "id": 23,
+            "name": "B Nade Stack [Part 1]",
+            "tags": [
+                "128",
+                "nade"
+            ]
+        },
+        {
+            "description": "Part of a nade set that nades a really common angle.",
+            "id": 24,
+            "name": "B Nade Stack [Part 2]",
+            "tags": [
+                "128",
+                "nade"
+            ]
+        },
+        {
+            "description": "Helps to get more control of mid",
+            "id": 25,
+            "name": "Mid Lurk Smoke",
+            "tags": [
+                "128",
+                "smoke"
+            ]
+        },
+        {
+            "description": "Smokes off left side oft CT mid",
+            "id": 26,
+            "name": "Mid Smoke Left",
+            "tags": [
+                "128",
+                "smoke"
+            ]
+        },
+        {
+            "description": "It's a really inconsistent nade to hit 100% of the time, but every bit of damage helps.",
+            "id": 27,
+            "name": "Mid Nade for CTs",
+            "tags": [
+                "128",
+                "nade"
+            ]
+        }
+    ],
+    "description": "",
+    "name": "Utility",
+    "type": "util"
+}
